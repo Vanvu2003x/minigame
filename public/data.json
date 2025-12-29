@@ -1,0 +1,19 @@
+[
+    {
+        "cat": "Động Vật",
+        "items": [
+            {
+                "name": "Con Mèo",
+                "img": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=200"
+            },
+            {
+                "name": "Con Chó",
+                "img": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?w=200"
+            }
+        ]
+    },
+    {
+        "cat": "Chim Chóc",
+        "items": []
+    }
+]
